@@ -1,7 +1,8 @@
 ---
 published: false
 ---
-## Conventional Commits
+
+## What are conventional commits?
 
 [Conventional commits](https://www.conventionalcommits.org/) is a specification for commit messages. Writing commit messsages that follow a specficiation like conventional commits allows tooling to be built said specification to do things like:
 
@@ -13,7 +14,7 @@ Specifications are contracts for tooling to be written around. As for convention
 ---
 
 
-### What do conventional commits look like?
+## What do conventional commits look like?
 
 Here's the basic structure of a conventional commit:
 ```
