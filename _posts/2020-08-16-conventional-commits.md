@@ -10,6 +10,8 @@ published: false
 
 Specifications are contracts for tooling to be written around. As for conventional commits, its aim was to give commit messages explicit structure while still being both human readable and easy to understand.
 
+---
+
 
 ### Commit Structure
 
