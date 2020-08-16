@@ -16,8 +16,9 @@ Specifications are contracts for tooling to be written around. As for convention
 ### What do conventional commits look like?
 
 Here's the basic structure of a conventional commit:
+<>
 ```
-\<type\>[optional scope]: <description>
+<type>[optional scope]: <description>
 
 [optional body]
 
