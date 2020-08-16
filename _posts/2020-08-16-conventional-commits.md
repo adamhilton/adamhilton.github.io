@@ -13,7 +13,7 @@ Specifications are contracts for tooling to be written around. As for convention
 ---
 
 
-### Commit Structure
+### What do conventional commits look like?
 
 Here's the basic structure of a conventional commit:
 ```
